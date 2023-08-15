@@ -1,0 +1,7 @@
+class index
+{
+public static void main (String args[])
+   {
+         int a[]={7,9,12,19,8,3,13};
+         scanner
+         
